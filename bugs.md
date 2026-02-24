@@ -25,7 +25,7 @@
 ### Комментарии
 Дефект касается только текста кнопки, функционал перехода в ЛК работает исправно.
 
-## [BUG] Неактивны элементы выпадающего меню пользователя
+# Баг-репорт: Неактивны элементы выпадающего меню пользователя
 
 **ID:** 2_ИТ_https://ftb.mentorpiece.org/?lang=ru
 
@@ -55,7 +55,7 @@
 ### 6. Вложения
 <img width="545" height="476" alt="image" src="https://github.com/user-attachments/assets/8c4a0518-613d-4ae6-af3d-64d39d5d2232" />
 
-# [BUG] Кнопка логотипа «MP mentorpriece FBT» выполняет логаут вместо редиректа на главную
+# Баг-репорт: Кнопка логотипа «MP mentorpriece FBT» выполняет логаут вместо редиректа на главную
 
 ## 1. Идентификатор
 `3_ИТ_https://ftb.mentorpiece.org/?lang=ru`
@@ -90,7 +90,7 @@
 ## 8. Вложения
 <img width="513" height="221" alt="image" src="https://github.com/user-attachments/assets/ba45b075-c300-462e-bc7c-bafc57b0db6e" />
 
-# [BUG] Некорректное сообщение об ошибке в форме «Применить промокод»
+# Баг-репорт: Некорректное сообщение об ошибке в форме «Применить промокод»
 
 ## 1. Идентификатор
 `4_ИТ_https://ftb.mentorpiece.org/?lang=ru`
@@ -125,7 +125,7 @@
 ## 8. Вложения
 <img width="883" height="757" alt="image" src="https://github.com/user-attachments/assets/fa786a09-fcd5-4205-ad4f-6ffd20ae2518" />
 
-# [UI/UX] Несоответствие стилей элементов в форме «Применить промокод»
+# Баг-репорт: Несоответствие стилей элементов в форме «Применить промокод»
 
 ## 1. Идентификатор
 `5_ИТ_https://ftb.mentorpiece.org/?lang=ru`
@@ -166,7 +166,7 @@
 <img width="576" height="719" alt="image" src="https://github.com/user-attachments/assets/ab1d4f05-fb39-461f-ab0c-b6cfb87916c4" />
 <img width="671" height="835" alt="image" src="https://github.com/user-attachments/assets/162dd943-88ce-4a85-840f-bfd41d39faec" />
 
-# [BUG] Некорректная загрузка страницы по ссылке «Крупнейшем интерактивном учебнике по тестированию»
+# Баг-репорт: Некорректная загрузка страницы по ссылке «Крупнейшем интерактивном учебнике по тестированию»
 
 ## 1. Идентификатор
 `6_ИТ_https://ftb.mentorpiece.org/?lang=ru`
@@ -197,7 +197,7 @@
 ## 7. Вложения
 <img width="921" height="468" alt="image" src="https://github.com/user-attachments/assets/41fb9910-354d-46a1-89f2-8611890a077f" />
 
-# [BUG] Некорректный тип данных для полей времени в таблице `flight` (MySQL schema)
+# Баг-репорт: Некорректный тип данных для полей времени в таблице `flight` (MySQL schema)
 
 ## 1. Идентификатор
 `7_ИТ_https://ftb.mentorpiece.org/?lang=ru`
