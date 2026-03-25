@@ -54,8 +54,9 @@
 *   **Важность:** Критическая (Critical)
 *   **Срочность:** Высокая (High) — блокирует доступ к управлению аккаунтом перед релизом.
 
-### 6. Вложения
-<img width="545" height="476" alt="image" src="https://github.com/user-attachments/assets/8c4a0518-613d-4ae6-af3d-64d39d5d2232" />
+### 6. Вложения 
+https://github.com/user-attachments/assets/118dd437-dc20-4497-a509-60256982865f
+
 
 # Баг-репорт: Кнопка логотипа «MP mentorpriece FBT» выполняет логаут вместо редиректа на главную
 
@@ -92,7 +93,12 @@
 *Примечание: для наглядности рекомендуется записать скринкаст воспроизведения.*
 
 ## 8. Вложения
-<img width="513" height="221" alt="image" src="https://github.com/user-attachments/assets/ba45b075-c300-462e-bc7c-bafc57b0db6e" />
+
+https://github.com/user-attachments/assets/c9d35c38-0147-4068-ad4c-f21f1799902e
+
+https://github.com/user-attachments/assets/6178c011-be2e-4102-a313-61d39d94d144
+
+
 
 # Баг-репорт: Некорректное сообщение об ошибке в форме «Применить промокод»
 
@@ -243,6 +249,7 @@
 
 ## 8. Вложения
 <img width="959" height="844" alt="image" src="https://github.com/user-attachments/assets/9543629c-3c49-44a2-b1b2-30d4ded00c03" />
+
 
 
 
