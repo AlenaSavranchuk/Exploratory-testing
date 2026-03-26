@@ -48,7 +48,7 @@
 При клике на кнопку **«User»** или иконку аккаунта в шапке сайта выпадающее меню отображается визуально, однако взаимодействие с его пунктами (Профиль, Выход и др.) невозможно — клики игнорируются системой.
 
 ### Приоритет
-`Critical` (Высокая срочность)
+`Critical` 
 
 ### Окружение
 *   **ОС:** Windows 11 Домашняя
@@ -192,7 +192,6 @@ https://github.com/user-attachments/assets/a5ec3ecc-a6c8-4587-8a33-46d2977f885b
 https://github.com/user-attachments/assets/f1162d21-5fea-4e0e-8693-ca1e18c51ef7
 
 <img width="585" height="225" alt="баг 5-2" src="https://github.com/user-attachments/assets/8360f5f1-344a-46d3-8049-c0f6366346c5" />
-
 
 
 ### Комментарии
