@@ -664,9 +664,8 @@ https://github.com/user-attachments/assets/f1162d21-5fea-4e0e-8693-ca1e18c51ef7
 При наведении курсора в подсказке снизу страницы пагинация нумеруется с 0 и не в соответствии с цифрой, на которой находится курсор
 
 ### Вложения
-<img width="842" height="289" alt="{F77E7B4E-D6F6-46C2-8741-110EC02FFCFA}" src="https://github.com/user-attachments/assets/f6e6f212-c49f-4b8e-96fd-ce36bd886069" />
 
-<img width="839" height="292" alt="{AA754DE6-9583-4471-90A9-659C3446D4A6}" src="https://github.com/user-attachments/assets/3daec3f8-faa8-4d67-85c1-3996807ea78d" />
+https://github.com/user-attachments/assets/f38dcc3d-417e-4d5e-8bc6-5377091a397a
 
 ### Комментарии
 Баг не критичен для пользовательского опыта.
