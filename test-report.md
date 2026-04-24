@@ -1,4 +1,4 @@
-# Отчет об исследовательском тестировании (Exploratory Testing)
+# Отчет об исследовательском тестировании (Exploratory Testing) 
 
 ###  Общая информация
 *   **Объект тестирования:** [Mentorpiece FTB](https://ftb.mentorpiece.org/)
